@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403072629081",
+    "project_id": "chatchat-12dd0",
+    "storage_bucket": "chatchat-12dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403072629081:android:18ec73ee6bc344c50e7448",
+        "android_client_info": {
+          "package_name": "com.example.a2024_kotiln_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJBqLMK2kqHv83wIHdtTQnTfaJiGBcx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
